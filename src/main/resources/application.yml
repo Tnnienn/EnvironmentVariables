@@ -1,0 +1,15 @@
+environment: test
+authCode: xyz458
+devName: Antonio
+server:
+  port:  4500
+---
+environment: test1
+welcomeMsg2: Hello from Test
+server:
+  port:  4000
+---
+environment: prod
+welcomeMsg: Hello form Prod
+server:
+  port:  5000
